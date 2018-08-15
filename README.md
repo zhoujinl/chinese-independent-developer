@@ -18,6 +18,185 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年8月13号添加
+---
+#### fateleak - [GitHub](https://github.com/fateleak)
+* :white_check_mark: [irreader](http://irreader.netqon.com/)：网空RSS阅读器
+
+### 2018年7月30号添加
+---
+#### Thomas94
+* :white_check_mark: [火星首页](https://www.goto-mars.com/)：一个漂亮的首页，以及完全可自定义的导航站点和云端收藏夹服务 - [更多介绍](https://www.goto-mars.com/static/about_us.html)
+
+### 2018年7月26号添加
+---
+#### Jack Yip
+* :white_check_mark: [Killcoding](http://killcoding.com/)：无需编程开发 Web 应用程序
+
+### 2018年7月16号添加
+---
+
+#### brucefeynman - [Github](https://github.com/brucefeynman),[博客](http://brucediscovery.com/)
+* :white_check_mark: [51% 双花攻击分析](http://www.cryptoattack.io/)：分析不同数字货币被 51% 双花攻击的概率 - [更多介绍](http://www.cryptoattack.io/about)
+
+### 2018年7月10号添加
+---
+
+#### Wang Lingsong - [Github](https://github.com/wanglingsong)
+* :white_check_mark: [ERC20 Token Exchagne](https://wanglingsong.github.io/ERC20ExchangeReactUI/)：基于以太坊的去中心化 ERC20 代币交易所应用（需先安装 Chrome 扩展，请看更多介绍） - [更多介绍](https://github.com/wanglingsong/ERC20Exchange)
+
+#### 易墨 - [Github](https://github.com/yimogit/), [博客](https://www.yimo.link/)
+- :white_check_mark: [metools](https://tools.yimo.link/#/home)：工具集（base64转码，markdown转HTML，二维码生成和识别，数字转人民币大写（壹佰贰拾叁元整）等) - [更多介绍](https://github.com/yimogit/metools-plugin)
+
+### 2018年7月6号添加
+---
+
+#### 王文杰 - [Github](https://github.com/wangwenjie1314), [博客](http://xiab.club/)
+* :white_check_mark: [图文进化论](http://mp.millionshow.cn/)：记录美好图文（微信访问）
+
+#### 魏焜榕 - [Github](https://github.com/SeriaWei), [博客](http://www.cnblogs.com/seriawei/)
+* :white_check_mark: [ZKEACMS](http://www.zkea.net/zkeacms/zkeacmscore)：可视化设计CMS，在线编辑网站 - [更多介绍](https://github.com/SeriaWei/ZKEACMS.Core)
+
+#### huihut - [Github](https://github.com/huihut), [博客](https://blog.huihut.com/)
+* :white_check_mark: [Facemoji 废萌](https://play.google.com/store/apps/details?id=com.huihut.facemoji)：一个可以模仿你的表情的语音聊天机器人- [更多介绍](https://blog.huihut.com/2018/02/08/Facemoji1/), [更多介绍2](https://github.com/huihut/Facemoji)
+
+#### cjztool - [Github](https://github.com/cjztool), [博客](http://cjz010.iteye.com/)
+* :white_check_mark: [中医方歌](http://app.mi.com/details?id=com.cjz.PrescriptionPoem)：中医《方剂学》学习工具
+
+### 2018年7月4号添加
+---
+
+#### Bill - [Github](https://github.com/kkxlkkxllb)
+* :white_check_mark: [手绘微课Pro](https://17up.org/)：语音及笔迹录制工具，简单在线制作微课 - [更多介绍](https://kkxlkkxllb.github.io/org17up/)
+* :white_check_mark: [手绘微课Pro 小程序](https://minapp.com/miniapp/2554/)：语音+手写笔迹+图片+视频制作微课，可导出 mp4
+
+### 2018年6月30号添加
+---
+
+#### alphardex - [Github](https://github.com/alphardex)
+* :white_check_mark: [techattic](http://techattic.herokuapp.com/)：一家聚集了许多 IT 技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
+
+### 2018年6月26号添加
+---
+
+#### enzeberg - [GitHub](https://github.com/enzeberg)
+* :white_check_mark: [铜钟聚合音乐](http://tongzhong.xyz)：试图解决你来回切换音乐软件的烦恼 - [更多介绍](https://github.com/enzeberg/tongzhong-music)
+
+#### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
+* :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个 APP 就可以看多个平台的直播，流畅、纯净、无广告
+* :white_check_mark: [看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
+* :white_check_mark: [体测成绩查询(微校应用)](http://weixiao.qq.com/store/details/10978)：全国高校体测成绩查询，只需输入身份证号码就可以查询体测成绩
+
+#### xiaobaiso - [GitHub](https://github.com/xiaobaiso), [博客](https://xiaobaiso.github.io/)
+* :white_check_mark: [临时邮](https://itunes.apple.com/cn/app/%E4%B8%B4%E6%97%B6%E9%82%AE-%E5%8D%81%E5%88%86%E9%92%9F%E9%82%AE%E7%AE%B1/id1342693449?mt=8)：一键生成多个临时邮箱地址 - [更多介绍](https://xiaobaiso.github.io/tempmail/)
+* :white_check_mark: [下载视频小助手(微信公众号)](https://xiaobaiso.github.io/zhihudoc/)：下载知乎视频
+
+### 2018年6月21号添加
+---
+
+#### 织网哥 - [GitHub](https://github.com/mclxly)
+* :white_check_mark: [小视频神器](https://video2x.cn)：微信小程序，用于视频编辑，可添加字幕/配音，也可倒播/消音/改尺寸，输出MP4/GIF；还可拼接视频/剪辑视频。
+
+### 2018年6月8号添加
+---
+
+#### dd - [GitHub](https://github.com/dpy1123)
+* :white_check_mark: [DDMUG](https://promotion.devgo.top/ddmug/)：音游 poc，包含编辑器
+
+#### ghui - [GitHub](https://github.com/ghuiii), [博客](http://ghui.me)
+* :white_check_mark: [V2er](https://www.coolapk.com/apk/me.ghui.v2er.free)：好用的 V2EX 客户端 - [更多介绍](https://ghui.me/post/2017/09/v2er-free-version/)
+
+### 2018年6月7号添加
+---
+#### 小芋头君 - [知乎](https://www.zhihu.com/people/li-shou-xin), [GitHub](https://github.com/xinyu198736)
+* :white_check_mark: [颜文字输入法](https://itunes.apple.com/cn/app/yan-wen-zi-shu-ru-fa-zui-qiang/id866753915?mt=8)：卖萌输入法，可能是最早一批正儿八经做这个的，几年前就卖了，现在用户目测百万级别
+* :white_check_mark: [喵老师绘本故事](https://itunes.apple.com/cn/app/er-shi-yi-dian-shui-qian-gu-shi/id998079819)：和幼师老婆一起做的讲故事 app，内容都是媳妇录的，已经 200 多期了（最开始叫 二十一点睡前故事）
+
+### 2018年6月6号添加
+---
+#### 谢杨
+* :white_check_mark: [BufPay.com](https://bufpay.com)：独立开发者个人收款平台（无需公司资质，免签约）
+
+
+### 2018年5月29号添加
+---
+####  waynecz - [GitHub](https://github.com/waynecz/dadda-translate-crx)
+* :white_check_mark: [达达划词翻译](https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl)：好看的划词翻译插件 - [更多介绍](https://github.com/waynecz/dadda-translate-crx)
+
+### 2018年5月22号 & 23号 & 24号添加
+---
+
+#### mhkz - [GitHub](https://github.com/mhkz)
+* :white_check_mark: [全库网](https://www.iquanku.com)：分享一些技术内容和经验
+
+#### Nutt
+* :white_check_mark: [坚果电影](http://nutts.tv/)：为你找到下一部最爱的电影(原: 快影盒子)
+
+#### feilong - [GitHub](https://github.com/zfl420)
+* :white_check_mark: [TestFlight.top](https://testflight.top)：60 秒制作 iOS 内测 App 分发页，用户直接下载测试
+
+### 2018年5月20号添加
+---
+
+#### kezhenxu94 - [Github](https://github.com/kezhenxu94/), [博客](http://kezhenxu94.me)
+* :white_check_mark: [租房聚合分析](https://github.com/kezhenxu94/house-renting)：租房信息聚合分析，目前聚合了 58 同城，豆瓣，链家 的上百个城市地区，可以只扒取感兴趣的城市
+
+### 2018年5月18号添加
+---
+
+#### 李国宝 - [Github](https://github.com/liguobao)
+* :clock8: [地图找租房](https://woyaozufang.live/)：房源爬虫 + 高德地图强力驱动，迅速找到合适房源 - [更多介绍](https://github.com/liguobao/58HouseSearch/blob/master/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
+
+### 2018年5月16号添加
+---
+
+#### BeckTabs
+* :white_check_mark: [BeckTabs (iOS)](https://itunes.apple.com/cn/app/becktabs/id1340423767)：专业的乐谱管理软件
+
+
+### 2018年5月13号添加
+---
+
+#### che3vinci - [GitHub](https://github.com/che3vinci)
+* :white_check_mark: [somedraw](https://www.somedraw.com)：带给你像使用笔和纸一样的思维整理体验
+
+#### AlvinZhu - [GitHub](https://github.com/gbammc), [博客](http://alvinzhu.me/)
+* :white_check_mark: [Thor](https://github.com/gbammc/Thor)：快速打开或切换 Mac 应用
+
+#### iHTCboy - [GitHub](https://github.com/iHTCboy), [博客](https://iHTCboy.com)
+* :white_check_mark: [密记 iOS版](https://itunes.apple.com/cn/app/mi-ji-yu-zhong-bu-tong-ji/id925021570?l=zh&mt=8)：SQLite 实现的简单笔记和备份应用 - [更多介绍](https://github.com/iHTCboy/SecurityNote)
+* :white_check_mark: [桂林理工大学 - 校园通](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-xiao/id968615456?l=en&mt=8)：新闻模块抓取学校网页解释 HTML，社交仿博客 - [更多介绍](https://github.com/iHTCboy/CampusOfGLUT)
+* :white_check_mark: [桂林理工大学 - 云地图](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-yun/id954359041?mt=8)：基于高德云图API开发的地图应用 - [更多介绍](https://github.com/iHTCboy/GLUTCloud)
+
+### 2018年5月9号添加
+---
+#### runningcheese - [GitHub](https://github.com/runningcheese)
+* :white_check_mark: [RunningCheese Firefox](https://firefox.runningcheese.com/)：一款优雅强大的定制版 Firefox 浏览器，简洁且高效 - [更多介绍](https://github.com/runningcheese/RunningCheese-Firefox)
+
+### 2018年5月2号添加
+---
+
+#### pwxc - [GitHub](https://github.com/pwxc/)
+* :clock8: [lrcEdit](https://www.coolapk.com/apk/185032)：可能是 Android 端唯一的歌词编辑器 - [更多介绍](https://github.com/pwxc/LrcEdit-Android)
+
+#### Venus - [GitHub](https://github.com/bbbbx), [博客](http://blog.venusworld.cn)
+* :white_check_mark: [小当家](http://smallmenu.venusworld.cn:3000)：一款在线搜索食谱的 Web 应用
+
+### 2018年4月27号添加
+---
+
+#### R0uter - [GitHub](https://github.com/R0uter), [博客](https://www.logcg.com/)
+* :white_check_mark: [落格输入法](https://im.logcg.com/loginput)：iOS 平台中文双拼码表输入法
+* :white_check_mark: [落格报时喵](https://im.logcg.com/hourlymeow)：iOS 整点半点报时
+
+
+### 2018年4月25号添加
+---
+
+#### Timmy - [GitHub](https://github.com/zhu327), [博客](https://zhu327.github.io/)
+* :white_check_mark: [ifwechat](https://github.com/zhu327/ifwechat)：用微信触发ifttt, 连接微信与ifttt的公众号
+
+
 ### 2018年4月23号 & 24号添加
 ---
 
@@ -79,7 +258,7 @@
 ---
 
 ####  echosoar - [Github](https://github.com/echosoar), [博客](https://iam.gy)
-* :white_check_mark: [Code Reader](https://cr.js.org) 一个web应用，使你可以舒服地在移动设备上阅读和批注Github代码
+* :white_check_mark: [Code Reader](https://cr.js.org)：在移动设备上舒服地阅读和批注 Github 代码
 
 #### xiaohulu - [Github](https://github.com/xiaohulu/)
 * :white_check_mark: [豆腐丁](https://doufuding.com/)：学习资料整理网站，可编写技术文档和翻译 GitHub 网站的文档项目
@@ -415,6 +594,7 @@
 * :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
 
 #### Larry - [码力全开科技工作室](http://maliquankai.com)
+* :white_check_mark: [MiniHour](https://itunes.apple.com/us/app/minihour/id1383208731?mt=8)：时刻关注你的目标时间 - [更多介绍](http://maliquankai.com/2018/05/24/2018-05-24-minihour-product/)
 * :white_check_mark: [奇点日报](https://itunes.apple.com/us/app/wa-wa-yu-jian-hao-yin-le/id1223916908?l=zh&ls=1&mt=8)：高逼格程序员开发者技术分享平台
 * :white_check_mark: [破壳日](https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&ls=1&mt=8)：精美的生日 · 节日 · 纪念日礼物提醒工具
 * :white_check_mark: [壹日程](https://itunes.apple.com/us/app/壹日程-专注任务管理和待办计划提醒/id1251547470?l=zh&ls=1&mt=8)：专注任务管理和待办计划提醒
@@ -586,7 +766,7 @@
 ---
 
 #### wangzuo
-* :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
+* :white_check_mark: [RapZH](https://rapzh.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
 
 #### KyXu - [GitHub](https://github.com/OpenMarshall), [微博](http://weibo.com/kaiyuanxu)
 * :white_check_mark: [Nihon Cam](https://itunes.apple.com/cn/app/id1362401778)：提供 5810 种滤镜的另类美图软件，已被 App Store 推荐
@@ -637,7 +817,7 @@
 #### 糖醋陈皮 - [GitHub](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-* :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
+* :white_check_mark: [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
 
@@ -648,6 +828,7 @@
 
 [英文]        
 * [Indie Hacker](https://www.indiehackers.com/)
+* [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 * [RemoteOK](https://remoteok.io/) - 找远程工作
@@ -662,17 +843,13 @@
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
+* [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
 
-#### 5. 值得关注的 Twitter 用户
-* [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
-* [Pieter Levels(@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
-* [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
+#### 5. 值得关注的 Twitter 账号
+* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
+* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
+* [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
 
-#### 6. 备注
-1. 若内容有误欢迎提出，我会马上修正
-2. 个别网站需科学上网，并非网站无法访问，请自备工具
-3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
-
-#### 7. 最后
-本库的创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
+#### 6. 最后
+本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
